@@ -1,0 +1,4 @@
+project(Screenshot)
+aux_source_directory(Screenshot SRC_SUB)
+aux_source_directory(. SRC_CUR)
+add_executable(release ${SRC_SUB} ${SRC_CUR})

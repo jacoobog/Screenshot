@@ -1,0 +1,3 @@
+J:/programming/c/Screenshot/build/CMakeFiles/release.dir
+J:/programming/c/Screenshot/build/CMakeFiles/edit_cache.dir
+J:/programming/c/Screenshot/build/CMakeFiles/rebuild_cache.dir

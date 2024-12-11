@@ -1,0 +1,50 @@
+[
+{
+  "directory": "J:/programming/c/Screenshot/build",
+  "command": "J:\\msys2_c\\msys2\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\release.dir\\Screenshot\\CatchScreenDlg.obj -c J:\\programming\\c\\Screenshot\\Screenshot\\CatchScreenDlg.cpp",
+  "file": "J:/programming/c/Screenshot/Screenshot/CatchScreenDlg.cpp",
+  "output": "CMakeFiles/release.dir/Screenshot/CatchScreenDlg.obj"
+},
+{
+  "directory": "J:/programming/c/Screenshot/build",
+  "command": "J:\\msys2_c\\msys2\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\release.dir\\Screenshot\\MyEdit.obj -c J:\\programming\\c\\Screenshot\\Screenshot\\MyEdit.cpp",
+  "file": "J:/programming/c/Screenshot/Screenshot/MyEdit.cpp",
+  "output": "CMakeFiles/release.dir/Screenshot/MyEdit.obj"
+},
+{
+  "directory": "J:/programming/c/Screenshot/build",
+  "command": "J:\\msys2_c\\msys2\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\release.dir\\Screenshot\\MyToolBar.obj -c J:\\programming\\c\\Screenshot\\Screenshot\\MyToolBar.cpp",
+  "file": "J:/programming/c/Screenshot/Screenshot/MyToolBar.cpp",
+  "output": "CMakeFiles/release.dir/Screenshot/MyToolBar.obj"
+},
+{
+  "directory": "J:/programming/c/Screenshot/build",
+  "command": "J:\\msys2_c\\msys2\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\release.dir\\Screenshot\\MyTracker.obj -c J:\\programming\\c\\Screenshot\\Screenshot\\MyTracker.cpp",
+  "file": "J:/programming/c/Screenshot/Screenshot/MyTracker.cpp",
+  "output": "CMakeFiles/release.dir/Screenshot/MyTracker.obj"
+},
+{
+  "directory": "J:/programming/c/Screenshot/build",
+  "command": "J:\\msys2_c\\msys2\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\release.dir\\Screenshot\\PopUpMenu.obj -c J:\\programming\\c\\Screenshot\\Screenshot\\PopUpMenu.cpp",
+  "file": "J:/programming/c/Screenshot/Screenshot/PopUpMenu.cpp",
+  "output": "CMakeFiles/release.dir/Screenshot/PopUpMenu.obj"
+},
+{
+  "directory": "J:/programming/c/Screenshot/build",
+  "command": "J:\\msys2_c\\msys2\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\release.dir\\Screenshot\\Screenshot.obj -c J:\\programming\\c\\Screenshot\\Screenshot\\Screenshot.cpp",
+  "file": "J:/programming/c/Screenshot/Screenshot/Screenshot.cpp",
+  "output": "CMakeFiles/release.dir/Screenshot/Screenshot.obj"
+},
+{
+  "directory": "J:/programming/c/Screenshot/build",
+  "command": "J:\\msys2_c\\msys2\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\release.dir\\Screenshot\\ScreenshotDlg.obj -c J:\\programming\\c\\Screenshot\\Screenshot\\ScreenshotDlg.cpp",
+  "file": "J:/programming/c/Screenshot/Screenshot/ScreenshotDlg.cpp",
+  "output": "CMakeFiles/release.dir/Screenshot/ScreenshotDlg.obj"
+},
+{
+  "directory": "J:/programming/c/Screenshot/build",
+  "command": "J:\\msys2_c\\msys2\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\release.dir\\Screenshot\\stdafx.obj -c J:\\programming\\c\\Screenshot\\Screenshot\\stdafx.cpp",
+  "file": "J:/programming/c/Screenshot/Screenshot/stdafx.cpp",
+  "output": "CMakeFiles/release.dir/Screenshot/stdafx.obj"
+}
+]
